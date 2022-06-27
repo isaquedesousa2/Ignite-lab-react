@@ -1,7 +1,7 @@
 import { FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
-import imgUrl from "./src/assets/code-mockup.png";
+import imgUrl from "../../src/assets/code-mockup.png";
 
 export function Subscribe(){
 
