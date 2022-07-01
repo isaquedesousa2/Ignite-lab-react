@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "private": true,
+  "homepage": "http://isaquedesousa.com.br",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

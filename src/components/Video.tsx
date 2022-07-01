@@ -9,7 +9,7 @@ interface VideoProps {
 
 export function Video(props: VideoProps) {
 
-  const { data } = useAPI(`http://127.0.0.1:8000/api/v1/aulas/?slug=${props.lessonSlug}`);
+  const { data } = useAPI(`http://153.92.209.217/api/v1/aulas/?slug=${props.lessonSlug}`);
 
   if(!data) {
     return (
