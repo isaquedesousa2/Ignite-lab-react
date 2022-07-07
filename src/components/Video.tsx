@@ -9,7 +9,7 @@ interface VideoProps {
 
 export function Video(props: VideoProps) {
 
-  const { data } = useAPI(`http://153.92.209.217/api/v1/aulas/?slug=${props.lessonSlug}`);
+  const { data } = useAPI(`http://127.0.0.1:8000/api/v1/aulas/?slug=${props.lessonSlug}`);
 
   if(!data) {
     return (
@@ -24,7 +24,7 @@ export function Video(props: VideoProps) {
       <div className="bg-black flex justify-center">
         <div className="h-full w-full max-w-[1100px] max-h-[60vh] aspect-video">
             <Player>
-                <Youtube videoId="SO4-izct7Mc"/>
+                <Youtube videoId="w4o12HtuUfo"/>
                 <DefaultUi />
             </Player>
         </div>
