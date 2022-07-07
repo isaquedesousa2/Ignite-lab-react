@@ -29,7 +29,7 @@ Além disto, é bom ter um editor para trabalhar com o código, como o <a href="
 
 ### Clone o repositório
 ```
-git clone https://github.com/isaquedesousa2/api-django-igniteLab.git
+git clone https://github.com/isaquedesousa2/ignite-lab-react.git
 ```
 ### Acesse a pasta do projeto no terminal
 ```
