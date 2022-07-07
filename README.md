@@ -1,5 +1,5 @@
 <h1 align="center">Ignite Lab Consumindo API DJANGO</h1>
-<p align="center">Aplicação react feita no Ignite Lab Rocketseat com diferença, api é fornecida por uma aplicação backend <a href="https://github.com/isaquedesousa2/api-django-igniteLab">(DJANGO)</a> construida com django rest framework<p>
+<p align="center">Aplicação react feita no Ignite Lab Rocketseat com diferença, API é fornecida por uma aplicação backend <a href="https://github.com/isaquedesousa2/api-django-igniteLab">DJANGO</a> construida com django rest framework<p>
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 </h3>
 Antes de começar, você vai precisar ter instalado em sua máquina as seguinte ferramentas: <a href="https://git-scm.com" target="_blank">Git</a>, <a href="https://nodejs.org/en/" target="_blank">Node.js >=12.2.0.</a>. <br>
 Além disto, é bom ter um editor para trabalhar com o código, como o <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>.<br />
-È necessario clona e executar a aplicação <a href="https://github.com/isaquedesousa2/api-django-igniteLab">Backend</a> para fornecer a api e executar de forma correta o frontend.
+È necessário clona e executar a aplicação <a href="https://github.com/isaquedesousa2/api-django-igniteLab">Backend</a> para fornecer a API e executar de forma correta o frontend.
 
 <br />
 <h3 id="rodando-a-aplicacao">
